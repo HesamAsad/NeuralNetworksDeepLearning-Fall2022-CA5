@@ -6,5 +6,6 @@
 * Papers:
   * Attention Is All You Need!
   * GAUSSIAN ERROR LINEAR UNITS (GELUS)
+  * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 * Q2: Image Segmentation & Classification with BEIT
 * BEIT: BERT Pre-Training of Image Transformers
